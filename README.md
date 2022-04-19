@@ -2,4 +2,3 @@
 - 👀 I’m interested in all things Aerospace, Tech, and Music.
 - 🌱 I’m currently learning Data Science at The University of Western Australia
 - 💞️ I’m looking to collaborate on Data Science projects that focus on Environmental Sustainability and Aerospace Technologies.
-- 📫 How to reach me: e-mail: julio.cdc.machado@gmail.com
