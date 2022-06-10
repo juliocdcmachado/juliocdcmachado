@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Julio Machado
-- 👀 I’m interested in all things Aerospace, Tech, and Music.
-- 🌱 I’m currently learning Data Science at The University of Western Australia
-- 💞️ I’m looking to collaborate on Data Science projects that focus on Environmental Sustainability and Aerospace Technologies.
+- 👀 Interested in Aerospace, Tech, and Music.
+- 🌱 Currently learning Data Science at The University of Western Australia
+- 💞️ Wanting to collaborate on Data Science projects that focus on Environmental Sustainability and Aerospace Technologies.
